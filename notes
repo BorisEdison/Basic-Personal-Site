@@ -1,0 +1,32 @@
+Common block elements
+1. Paragraphs  (<p>)
+2. Headers  (<h1> through <h6>)
+3. Division (<div>)
+4. Lists and list items (<ol>, <ul> and <li>)
+5. Forms (<form>)
+
+span tag for paragraph(inline display element)
+
+Common Inline elements
+1. Spans(<span>)
+2. Images(<img>)
+3. Anchors(<a>)
+
+
+Inline Block
+
+
+visibility: hidden; (to hide but restore the space)
+
+RELATIVE POSITIONING
+position: relative;         (doesnt push other elements)
+right:10px;
+
+
+ABSOLUTE
+positioning with respect to its parent
+
+FIXED; (for site bar, or nav bar)
+
+
+textline
